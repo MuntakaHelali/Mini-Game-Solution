@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OaXQCAmKZCWRljxVbFnbObF7c7bIOcrK1mbBLxPByn5HlKfsjO1AU9WlBT+r9NcEAm5G1rbu6gbXBVa8hSGcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muntaco\\Desktop\\Mini-Game-Solution\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muntaco\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Muntaco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Muntaco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Muntaco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
