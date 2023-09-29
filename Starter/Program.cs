@@ -46,7 +46,7 @@ while (!shouldExit)
             GameUpdate();
         }
         if(shouldExit){
-            TerminateGame();
+            TerminateGameKey();
         }
     }
 }
@@ -152,6 +152,12 @@ void TerminateGame()
 {
     Console.Clear();
     Console.WriteLine("Consle was resized. Program exiting.");
+}
+
+void TerminateGameKey()
+{
+    Console.Clear();
+    Console.WriteLine("Non-Directional key was pressed. Program exiting.");
 }
 
 bool FoodConsumed(){
